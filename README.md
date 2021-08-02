@@ -2,11 +2,11 @@
 
 &nbsp;
 
-# JavaScript: Podstawy - pętle
+# JavaScript: Podstawy – pętle
 
-Celem tego zestawu zadań jest sprawdzenie czy poprawnie rozumiesz działanie pętli `for` oraz `while`.
+Celem tego zestawu zadań jest sprawdzenie, czy rozumiesz działanie pętli `for` oraz `while`.
 
-Zanim przystąpisz do wykonywania zadań zapoznaj się dokładnie z ich strukturą oraz zasadami ich działania. W szczególności zwróć uwagę na warunki zakończenia wykonywania pętli.
+Zanim przystąpisz do wykonywania zadań, zapoznaj się dokładnie ze strukturą i zasadami działania obu pętli. W szczególności zwróć uwagę na warunki zakończenia ich wykonywania.
 
 &nbsp;
 
